@@ -9,6 +9,7 @@
 - 🎓  I am a Masters in Computer Science & Engineering who loves to code.</br>
 - 😃  I am a self motivated individual who likes to explore new things and a quick learner too.</br>
 - 💻  I am very passionate to become a Best Developer.</br>
+- 💻  I am good in decompile</br>
 ### 🤝 Connect with me
 
 [![Kashyap | GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
