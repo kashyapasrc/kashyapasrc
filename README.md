@@ -33,7 +33,7 @@
 
 
 ## 💥Work Done By Me:
-- You can check work done by me in my [kashyap][github]
+- You can check work done by me in my [kashyap][github_repo]
 
 
 ## 📊 GitHub Stats:
@@ -42,7 +42,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapasrc&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+[github_repo]: https://github.com/kashyapasrc?tab=repositories
 [github]: https://github.com/kashyapasrc
 [youtube]: https://www.youtube.com/channel/UCSxDLBs7snFWKNPC2xrBKQQ
 [linkedin]: https://www.linkedin.com/in/sri-rama-chandra-kashyap-299b5186/
